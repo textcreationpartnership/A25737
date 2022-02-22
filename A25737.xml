@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[London] ss [to John Aston and John ... appointed and approved collectors for Grub Street &amp; Hore Street ... in the parish of St. Giles without Cripple Gate] in the [city] aforesaid of the several rates, duties and sums of money, granted to His Majesty King William III by virtue of an act of Parliament made in the sixth and seventh year of His said Majesty's reign, inituted, An Act for Granting to His Majesty Certain Rates and Duties upon Marriages, Births and Burials, and upon Batchlors and Widowers, for the Terms of Five Years, for Carrying on the War against France with Vigour.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25737</idno>
+            <idno type="STC">Wing A3589</idno>
+            <idno type="STC">ESTC R38506</idno>
+            <idno type="EEBO-CITATION">17525848</idno>
+            <idno type="OCLC">ocm 17525848</idno>
+            <idno type="VID">106539</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25737)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106539)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1626:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[London] ss [to John Aston and John ... appointed and approved collectors for Grub Street &amp; Hore Street ... in the parish of St. Giles without Cripple Gate] in the [city] aforesaid of the several rates, duties and sums of money, granted to His Majesty King William III by virtue of an act of Parliament made in the sixth and seventh year of His said Majesty's reign, inituted, An Act for Granting to His Majesty Certain Rates and Duties upon Marriages, Births and Burials, and upon Batchlors and Widowers, for the Terms of Five Years, for Carrying on the War against France with Vigour.</title>
+               </titleStmt>
+               <extent>1 broadside : form.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rob. Vincent ... Chr. Coningsby ... and Joshua Brixey ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bracketed title words appear at head of sheet in manuscript, as required by the form.</note>
+                  <note>Imperfect: creased, stained, and torn, with some loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  England.</term>
+               <term>Tax collection --  England.</term>
+               <term>Tax administration and procedure --  England --  Forms.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:106539:1" rendition="simple:additions"/>
+            <head>
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> in the <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> aforeſaid of the ſeveral Rates, Duties, and Sums of Money, Granted to His Majeſty King</hi> William III. <hi>by Virtue of an Act of Parliament made in the Sixth and Seventh Year of His ſaid Majeſty's Reign, Intituled,</hi> An Act for Granting to His Majeſty certain Rates and Duties upon Marriages, Births and Burials, and upon Batchelors and Widowers, for the Term of Five Years, for carrying on the War againſt <hi>France</hi> with Vigour.</head>
+            <p>THESE are in his Majeſty's Name, to require you, that you Collect and Levy the ſeveral Rates and Du<g ref="char:EOLhyphen"/>ties in the Eſtreat or Aſſeſſment hereunto annexed, as they ſhall reſpectively become due and payable, and all Monies and Rates due thereupon. And to that end you are hereby required to make De<g ref="char:EOLhyphen"/>mand of the partys chargeable therewith, or at the places of their laſt abode, within ten days after the ſaid Duties in the ſaid Eſtreat or Aſſeſſment ſhall become due and payable; And if any Perſon or Perſons ſhall refuſe to pay upon your demand, the ſaid ſeveral and reſpective Sum and Sums and proportions appointed for ſuch Perſons to pay; You are hereby Authorized and Required, for non-payment thereof, to diſtrein the Goods or Chattels of ſuch Perſon or Perſons ſo refuſing, and the Diſtreſs ſo taken to keep by the ſpace of 4 days at the coſts and charges of the Owner thereof; And if the ſaid Owner do not pay the ſame within the ſaid 4 days, then the ſaid Diſtreſs is to be appraiſed by two or more of the Inhabitants, where the ſaid Diſtreſs is taken, and there to be ſold by you for payment of the ſaid Money, and the Overplus coming by the ſaid Sale, if any be over and above the charges of taking and keeping the ſaid Diſtreſs, you are immediately to re<g ref="char:EOLhyphen"/>ſtore to the Owner thereof. And the better to enable you to Levy the Money Aſſeſſed by ſuch Diſtreſs and Sale. you may lawfully break open in the day time any Houſe; and by Virtue of this our Warrant, any Cheſt, Trunk, Box or other things where ſuch Goods are, calling to your aſſiſtance the Conſtable, Tythingman and Headborough, within your ſaid <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> where any refuſal, neglect or reſiſtance ſhall be made, which ſaid Officers are hereby required to be aiding and aſſiſting in the Premiſes, as they will anſwer the Contrary at their Perils. And where any Perſon or Perſons chargeable with any Rates or Aſſeſſments, ſhall be under the Age of 21 Years: In every ſuch caſe the Parents, Guardians and Tutors of ſuch Infants reſpectively, upon default of Payment by ſuch Infants, are by the ſaid Act made liable to, and charged with the Payments, which ſuch Infants ought to have made, and upon neglect or refuſal, it ſhall and may be lawful for you to proceed againſt them in like manner as a<g ref="char:EOLhyphen"/>gainſt any other Perſon or Perſons making default of Payment as aforeſaid.</p>
+            <p>And the ſeveral Duties and Sums of Money due and payable, for and upon the Burial of any Perſon within the ſaid <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> who in his or her life time, and at the time of his or her death was relieved within the ſaid <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> by virtue of any Act of Parliament made for the relief of the Poor, ſhall be paid and anſwered by the Church-wardens and Overſeers of the Poor of the ſaid <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> And in default of Payment the ſaid Church-wardens and Overſeers are liable to be diſtrein'd upon, and pro<g ref="char:EOLhyphen"/>ſecuted and puniſhed in ſuch manner as any other Perſons neglecting or refuſing to pay the Duties payable by them upon demand: And the Duties payable for and upon the Burial of any Perſon under the Age of 21 Years, who ſhall not be reſident at the time of his or her death, with his or her Father or Mother, ſhall be paid by the Maſter or Miſtreſs of the Family or Houſe where ſuch Perſon ſhall die, and in default of Payment, the ſaid Duties and Sums of Money ſhall be levied by diſtreſs, and ſale of the Goods and Chattels of ſuch Maſter or Miſtreſs, or otherwiſe as is before directed. And the ſeveral and reſpective Duties and Sums of Money granted up<g ref="char:EOLhyphen"/>on the Burials of the ſeveral Perſons in the ſaid Eſtreat or Aſſeſſment, ſhall be anſwered and paid by the reſpective Heirs Executors or Adminiſtrators of every ſuch Perſon ſo buried, before any other Debts or Duties whatſoever; and in default of Payment thereof, the ſame is charged upon, and to be levied by diſtreſs upon the Lands, Tenements and Hereditaments, or the Goods and Chattels of the Perſon ſo buried, in ſuch manner as is herein before directed; and the reſpective Duties charged upon the Burial of any Perſon under the Age of 21 Years, is to be paid by the Father of ſuch Perſon (if then living) and if the Father be Dead, by the Mother, (if ſhe be then living) or otherwiſe by the Guardian, Truſtee, Executor or Adminiſtrator of ſuch Perſon; and the Duty charged upon the Burial of any Wife, to be paid by the Husband of ſuch Wife.</p>
+            <p>And the ſeveral and reſpective Sums of Money impoſed for and upon the Birth or Births of any Child or Children, is to be paid by the Father, (if then living) and if he ſhall be Dead at the time of ſuch Birth, by the Mother of ſuch Child or Children ſo born, and in caſe of the Death of ſuch Father and Mother, by ſuch Perſon or Perſons who ſhall take upon him, her or them, the Guardianſhip of ſuch Child or Children ſo born.</p>
+            <p>And the ſeveral and reſpective Duties, and Sums of Money to be raiſed and paid by Marriages, as the ſame ſhall ſeverally become due and payable, is to be paid by the Husband upon demand.</p>
+            <p>And the ſeveral and reſpective yearly Sums in the Eſtreat or Aſſeſſment charged upon Batchelors and Widowers, you are to Collect and Gather at the two moſt uſual Feaſts in the Year, <hi>(viz.)</hi> at the Feaſt of <hi>St. Michael,</hi> the <hi>Arch-Angel,</hi> and at the Annunciation of the bleſſed Virgin <hi>Mary,</hi> by even and equal Portions.</p>
+            <p>And the Aſſeſſment laid upon our ſelves, and other the Commiſſioners for putting the ſaid Act in Execution, or upon the Aſſeſſors. You are to Levy and Gather, as the ſame ſhould and ought to have been, if we or they had not been Commiſſioners or Aſſeſſors.</p>
+            <p>And you are hereby Required within the ſpace of ſix Days after Receipt hereof, to deliver over the ſaid Aſſeſſ<g ref="char:EOLhyphen"/>ments or Certificates hereunto Annexed, or a true Copy thereof unto the Parſon, Vicar, Rector or Curate of your ſaid under the Penalty of forfeiting the Sum of Five Pounds, to the intent the ſame may be Openly and Publickly Read in the Church, on the Lord's Day next following.</p>
+            <p>And you are further Required to make and deliver to the Receiver General for the ſaid <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> or his Deputy, a perfect Schedule fairly Written in Parchment, under your Hands and Seals, Signed and Allowed by any two or more of Us, or other the Commiſſioners Acting for the ſaid containing the Names. Sirnames, and Places of Aboad of every Perſon, as well Peer as Commoner, within your ſaid <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> that ſhall make Default of Payment of any of the Sums that ſhall be Rated or Aſſeſſed on ſuch Perſon, and the Sum and Sums charged on every ſuch Perſon; to the intent, that the ſame may be by him returned into His Majeſty's Court of <hi>Exchequer.</hi> Whereupon every Perſon making Default of Payment, may be charged by Proceſs of the ſaid Court.</p>
+            <p>And for the better and more equal charging the Duties ariſing by the ſaid Act, at the end of the Year, for which you are appointed Collectors, you ſhall cauſe a Copy, of the reſpective Aſſeſſments now delivered to you, and of the Collection that ſhall be made by you for the ſaid <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> to be fairly Written and Signed by you, but with ſuch Alterations therein, as ſhall be neceſſary, by reaſon of the Death, change of Quality, or Degree, or Re<g ref="char:EOLhyphen"/>moval of any Perſon or Perſons, or otherwiſe; and at the bottom thereof, ſhall Write or cauſe to be Written, the Names of two or more of the moſt ſubſtantial Inhabitants of the ſaid <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> whom you in your Judgment ſhall think fit to be appointed Collectors of the ſaid Duties, within the ſaid <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> for the enſuing Year. And you are alſo to deliver or cauſe to be delivered, the ſaid Aſſeſſments ſo fairly Written, and Signed by you, together with the Names of the Perſons nominated by you, fit to be Collectors, or a true Duplicate thereof, Signed as aforeſaid, unto two or more Juſtices of the Peace for the ſaid <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> within the ſpace of Ten Days after the end of the Year, for which you are appointed Collectors as aforeſaid, under the Penalty of for<g ref="char:EOLhyphen"/>feiting the Sum of 20 <hi>l.</hi>
+            </p>
+            <p>And you are to take ſuch ſpeedy and effectual Order and Care in the Premiſes, that you fail not to Pay the ſeveral and reſpective Sum and Sums of Money, as they ſhall reſpectively become due and payable, within Twenty Days after the Receipt thereof, unto the Receiver General of the ſaid <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> his Deputy or Deputies, at <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> and thereof you are not to fail, as you will anſwer the contrary at your Peril. Given under Our Hands and Seals, the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Day of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> in the Seventh Year of the Reign of our Sovereign Lord King <hi>William</hi> the Third, by the Grace of God, of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> King, Defender of the Faith, <hi>&amp;c.</hi> 1695.</p>
+         </div>
+         <div type="license">
+            <p>
+               <hi>I do Approve of this Warrant, and do Licenſe</hi> Ro<g ref="char:EOLhyphen"/>bert Vincent, Chriſtopher Coningsby, <hi>and</hi> Joſhua Brixey, <hi>to Print the ſame. April</hi> 29, 1695.</p>
+            <p>Geo. Treby.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> Rob. Vincent in Cliffords-Inn-Lane, Chr. Coningsby <hi>at the</hi> Golden-Turks-Head <hi>over-againſt St.</hi> Dunſtan's-Church <hi>and</hi> Joſhua Brixey, <hi>at</hi> Clements-Inn-Gate, <hi>1695.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
